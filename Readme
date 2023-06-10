@@ -1,0 +1,27 @@
+this is mysql emplyee tracker not very good at making readmes 
+
+
+##Usage 
+first download all the correct packages needd or open terminal and type 
+npm i for proper packages, oncethe packages are downloaded 
+you can noe type in order 
+mysql -u root -p
+type password
+..
+source db/schema.sql;
+..
+sourcer db/seeds.sql;
+..
+you will only have to do this once, and then quit the mysql
+in terminal (DO NOT KILL TERMINL) once you have done that 
+type node index.js
+and from there on you can
+..
+add employee
+view employee 
+add role 
+view role
+view department 
+
+add random names and roles and salarys but just dont go above 10 or it will break
+
